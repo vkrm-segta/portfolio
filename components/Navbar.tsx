@@ -53,9 +53,9 @@ function Navbar() {
               href={item.page}
               onClick={() => setNavbar(!navbar)}
               className='block lg:inline-block hover:text-neutral-500'
-              activeClass='active'
-              spy={true}
-              smooth={true}
+              activeclass='active'
+              spy='true'
+              smooth='true'
               offset={-100}
               duration={500}
             >
