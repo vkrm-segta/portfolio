@@ -32,7 +32,7 @@ function Navbar() {
   return (
     <>
       <div className='fixed w-full top-0 m-2 mx-auto px-4'>
-        <div className='md:flex md:items-center justify-between border dark:border-stone-500 px-4'>
+        <div className='md:flex md:items-center justify-between border-4 dark:border-stone-500 px-4'>
           <div>
             <div className='flex justify-between py-3 md:py-5 md:block'>
               <h2 className='text-2xl font-bold'>Vkrm Segta</h2>

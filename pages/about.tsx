@@ -1,7 +1,5 @@
-import React from 'react';
-
 function about() {
-  return <div>about</div>;
+  return <div className='mt-10 text-center'>about</div>;
 }
 
 export default about;
