@@ -39,8 +39,8 @@ function AboutMe() {
 
         <div className='flex gap-5 text-2xl text-stone-500 mt-5'>
           <div className=' w-80 h-80 bg-stone-500 hover:bg-slate-800'>hh</div>
-          <div className=' w-80 h-80 bg-stone-500'>hh</div>
-          <div className=' w-80 h-80 bg-stone-500'>hh</div>
+          {/* <div className=' w-80 h-80 bg-stone-500'>hh</div>
+          <div className=' w-80 h-80 bg-stone-500'>hh</div> */}
         </div>
       </div>
     </div>
